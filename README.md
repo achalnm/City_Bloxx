@@ -10,7 +10,7 @@ A faithful browser recreation of the classic Nokia mobile game *Tower Bloxx* by 
 - Land the block as close to the centre of the tower as possible
 - Precise drops earn "PERFECT!" and "GREAT!" ratings
 - Chain 3+ good drops for a combo multiplier (×2, ×3, ×4…)
-- The crane speeds up as your tower grows — stay sharp!
+- The crane speeds up as your tower grows - stay sharp!
 - Miss (block falls off) = Game Over
 
 **Build City**
@@ -22,7 +22,7 @@ A faithful browser recreation of the classic Nokia mobile game *Tower Bloxx* by 
 **Adjacency Rules**
 | Type   | Requires adjacent |
 |--------|-------------------|
-| BLUE (Residential) | — |
+| BLUE (Residential) | - |
 | RED (Commercial)   | BLUE |
 | GREEN (Office)     | BLUE + RED |
 | YELLOW (Luxury)    | BLUE + RED + GREEN |
@@ -31,8 +31,8 @@ A faithful browser recreation of the classic Nokia mobile game *Tower Bloxx* by 
 | Action | Keyboard | Mouse / Touch |
 |--------|----------|---------------|
 | Drop block | Space / ↓ | Click / Tap |
-| Back | Esc | — |
-| Toggle music | M | — |
+| Back | Esc | - |
+| Toggle music | M | - |
 
 ## Running the Game
 
